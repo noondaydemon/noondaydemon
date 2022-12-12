@@ -1,4 +1,4 @@
 baseURL = 'https://noondaydemon.github.io'
-languageCode = 'pt-us'
+languageCode = 'pt-br'
 title = 'My New Hugo Site'
 theme = 'ananke'
